@@ -1,0 +1,9 @@
+p {
+  font-family: Lato;
+}
+.test1{
+  background-color: pink;
+}
+::ng-deep .test{
+  color: blue;
+}
